@@ -33,7 +33,6 @@ public class __3_25__3_26 {
                 minHeap(arr);
             }
             return;
-
         }
         if (number>arr[0]){
             arr[0]=number;
